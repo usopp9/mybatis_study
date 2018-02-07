@@ -20,6 +20,6 @@
     </environment>
   </environments>
   <mappers>
-    <mapper resource="org/mybatis/example/BlogMapper.xml"/>
+    <mapper resource="kr/or/dgit/mybatis_study/mappers/StudentMapper.xml"/>
   </mappers>
 </configuration>
